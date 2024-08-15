@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharbelJreij
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning how to not suck at coding
+- 🌱 I’m currently learning how to become a Full Stack developer
 - 📫 How to reach me: jreij.ch@gmail.com
 
 <!---
