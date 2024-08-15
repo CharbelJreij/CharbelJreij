@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharbelJreij
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python, and working towards a Software Engineering Degree
+- 🌱 I’m currently learning how to not suck at coding
 - 📫 How to reach me: jreij.ch@gmail.com
 
 <!---
