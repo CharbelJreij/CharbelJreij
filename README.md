@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @CharbelJreij
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning how to become a Full Stack developer
-- 📫 How to reach me: jreij.ch@gmail.com
+# Charbel Jreij
 
-<!---
-CharbelJreij/CharbelJreij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack engineer and product builder based in Beirut, Lebanon. I take product ideas from first decision to production across web, mobile, data, security, and applied AI.
+
+- Founder of [MyCFO](https://getmycfo.co)
+- Technical Lead at [Fifth Form](https://fifthformstudio.com)
+- AI Engineering Intern at Dar Al-Handasah
+- LIFE Scholar
+
+[Portfolio](https://www.charbeljreij.com) · [LinkedIn](https://www.linkedin.com/in/charbel-jreij/)
